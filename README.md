@@ -8,5 +8,5 @@ As it's name points - this design pattern's purpose is creation. Creation is the
 * **Structural**:\
 Object or class composition is what it's about. They are like a good therapist, but except of mind - helping you refactor, add new parts ot the code without affecting the entire codebase. They are elegant solutions for civilized times always willing to help you increase functionality of your classes.
 
-* **Behavioral**
-
+* **Behavioral**:\
+These patterns are focused in improvements as it goes for objects communication. Communication can be considered as a relationship between objects as it comes for interactions. Why to go blindly into this relationship, not knowing what you do when you can learn the best/proven approches to hop into it?
